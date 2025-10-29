@@ -10,6 +10,8 @@ Aplikasi ini dikembangkan sebagai bagian dari evaluasi bulan ke-3.
 Kamu dapat mencoba aplikasi langsung melalui tautan berikut:  
 👉 **[E-Commerce Lite - Live Demo](https://evaluasi-month-3.vercel.app/)**
 
+
+**Presentation Link : [Click Here](https://www.youtube.com/watch?v=zAzhKmUQTrI)**
 ---
 
 ## ⚙️ Teknologi yang Digunakan
